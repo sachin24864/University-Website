@@ -1,0 +1,53 @@
+.head {
+    background-color: black;
+    color: white;
+    height: 60px;
+    padding-top: 14px;
+    padding-left: 50px;
+}
+
+.my_menu ul {
+    padding-top: 15px;
+}
+
+.my_menu ul li {
+    list-style: none;
+    display: inline;
+}
+
+.my_menu ul li a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 15pxpx;
+    font-weight: bold;
+    margin-left: 50px;
+}
+
+.mar_man {
+    margin-top: 20%;
+    color: white;
+    margin-right: 10%;
+}
+
+.mar_man2 {
+    margin-top: 2%;
+    margin-bottom: 2%;
+    text-align: center;
+    font-size: 28px;
+    color: red;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.mar_man3
+{
+    margin-left: 16%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.mar_man3 h2
+{
+    color: red; 
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 24px;
+}
